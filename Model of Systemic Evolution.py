@@ -1,11 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""
-Grand Canonical Model of Systemic Evolution
-High-Fidelity Visualization & Summary
-Author: Eric Ren
-"""
+
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -148,3 +144,4 @@ print(f"Final Entropy S2: {history_entropy_S2[-1]:.4f}")
 print(f"Max S1 Activation: {history_S1[-1].max():.4f}")
 print(f"Max S2 Activation: {history_S2[-1].max():.4f}")
 print(f"Max Ω Activation: {history_Omega[-1].max():.4f}")
+
