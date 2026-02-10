@@ -25,7 +25,7 @@ This project models how complex systems evolve from raw information to self-opti
 
 ---
 
-## Evolution Path (KWFR)
+## Evolution Path
 
 The system follows a **3-phase trajectory** from chaos to autonomy:
 
@@ -69,8 +69,6 @@ The simulation tracks and reports:
 - **Gate Dynamics:** Average and final G(t) state values
 
 > Complexity evolves when information finds a substrate to hold it.
-
----
 
 ---
 
